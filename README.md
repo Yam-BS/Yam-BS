@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Yam Batista
 
 - 🔭 Hoje estou em busca de estágio
-- 🌱 Estudando front-end
+- 🌱 Estudando Java
 - 😄 Pronouns: ele/dele
 
 <div align="center">
