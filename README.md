@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Yam Batista
 
-- 🔭 Hoje estou em busca de estágio
+- 🔭 Hoje estou em busca da primeira vaga como Desenvolvedor Back-end
 - 🌱 Estudando Java
 - 😄 Pronouns: ele/dele
 
